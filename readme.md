@@ -1,3 +1,3 @@
 Aula de GIt
 
-Feito algumas alterações
+Feito algumas alteracoes
